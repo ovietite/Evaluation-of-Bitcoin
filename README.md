@@ -1,4 +1,4 @@
-Using a Python script and the yfinance library, we acquire Bitcoin price 
+Using a Python script and the yfinance library, we acquired Bitcoin price 
 data from Yahoo Finance for use in training, testing, and a generalisation 
 check. To proceed, we will pre-process the data and conduct exploratory 
 analysis (EDA). As a means of making complex data sets more digestible, 
